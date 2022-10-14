@@ -1,8 +1,5 @@
-class hello()          # from dev2
-{
-        public static void maim ()    # from dev2
-	{
-	        system.out.printin ('hello modfy from dev2') ;
+ from dev1');
+>>>>>>> c5f68a640877975db7d72dad3fd313d1ee36ab38
          
         }
 } # from dev2
