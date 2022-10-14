@@ -2,6 +2,7 @@ class hello()
 {
         public static void maim ()
 	{
-	        system.out.printin ('hello');
-         }       
-}
+	        system.out.printin ('hello modfy');
+         
+        }
+}	
