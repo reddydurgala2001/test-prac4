@@ -1,8 +1,8 @@
-class hello()
+class hello()          # from dev2
 {
-        public static void maim ()
+        public static void maim ()    # from dev2
 	{
-	        system.out.printin ('hello modfy');
+	        system.out.printin ('hello modfy from dev2') ;
          
         }
-}	
+} # from dev2
